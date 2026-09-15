@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Muskan Kumari
 
-<!--
-**Muskkbytebloom/Muskkbytebloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | React Learner  
+🐍 Python | JavaScript  
+🧠 Currently learning Data Structures & Algorithms  
+🚀 Building projects and improving my development skills
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+- React
+- Advanced JavaScript
+- Data Structures & Algorithms
+
+## 📌 Projects
+
+Coming soon... 🚀
+
+---
+
+⭐ Thanks for visiting my profile!
